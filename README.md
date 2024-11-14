@@ -67,7 +67,7 @@ This Kanban board application allows users to manage tasks across various stages
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kaverimeka/kanban-board.git
+   git clone https://github.com/nikeshsharma192002/Kanban-Board.git
    cd kanban-board
 2. Install dependencies:
    ```bash
